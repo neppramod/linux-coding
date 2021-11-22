@@ -1,0 +1,17 @@
+#+TITLE: Button Game
+
+Create a button game to learn QT programming. Details of the widgets used is inspired from the Qt for Beginners Tutorial.
+
+In this project, we will create 3 different types of buttons (more than 1 of each type) derived from QAbstractButton. Users will need to click some combination of buttons, and one combination will make Quit button appear, and then user can click that to close the window.
+
+[[./button_game.png]]
+
+* How to Run Project
+  - Install usual qt libraries like ~qt5-base~. If you install /QT Creator/, that should install most of the libraries.
+  - Compile with qmake and make
+  - Can run by executing ~./button_game~
+* References
+  - https://wiki.qt.io/Qt_for_Beginners
+  - https://doc.qt.io/qt-5/qcheckbox.html
+  - https://doc.qt.io/qt-5/qpushbutton.html
+  - https://doc.qt.io/qt-5/qradiobutton.html
