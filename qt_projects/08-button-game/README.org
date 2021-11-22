@@ -6,7 +6,7 @@ In this project, we will create 3 different types of buttons (more than 1 of eac
 
 * Design
 
-#+ATTR_HTML: width="200px"
+#+ATTR_HTML: width="100px"
 [[./button_game.png]]
 
 * Screenshot
