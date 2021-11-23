@@ -1,0 +1,8 @@
+#+TITLE: SysInfo
+Shows Various System Information.
+
+In this project, I use qtcreator and a UI file. To use vertical layout, I use Ctrl + L in the designer.
+
+It uses some of newer header files for networking and some info comes from getenv method. If these change in future, these may throw error.
+
+This was more of a practice to use qtcreator unlike other project.
