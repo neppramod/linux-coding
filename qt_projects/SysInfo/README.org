@@ -6,3 +6,7 @@ In this project, I use qtcreator and a UI file. To use vertical layout, I use Ct
 It uses some of newer header files for networking and some info comes from getenv method. If these change in future, these may throw error.
 
 This was more of a practice to use qtcreator unlike other project.
+* Screenshot
+  [[./screenshot.png]]
+* References
+  https://doc.qt.io/qtcreator/creator-writing-program.html
